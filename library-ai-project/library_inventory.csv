@@ -1,0 +1,11 @@
+id,titulo,autor,genero,cantidad,edad_promedio_lector,ubicacion
+1,Cuentos de Cuna Ilustrados,Varios Autores,Infantil,15,3,Pasillo E-1
+2,Harry Potter y la Piedra Filosofal,J.K. Rowling,Fantasia,5,11,Pasillo A-1
+3,El Hobbit,J.R.R. Tolkien,Fantasia,4,14,Pasillo A-2
+4,Orgullo y Prejuicio,Jane Austen,Romance,6,22,Pasillo B-2
+5,Cien Anos de Soledad,Gabriel Garcia Marquez,Realismo Magico,3,28,Pasillo B-3
+6,Sapiens: De Animales a Dioses,Yuval Noah Harari,Historia,8,31,Pasillo C-2
+7,Breves Respuestas a las Grandes Preguntas,Stephen Hawking,Ciencia,4,45,Pasillo C-1
+8,El Viejo y el Mar,Ernest Hemingway,Clasicos,2,68,Pasillo B-1
+9,Memorias de un Siglo,Cronistas de Antano,Historia Viva,1,95,Pasillo C-3
+10,Historia Universal y Filosofia Clasica,Enciclopedia Real,Filosofia,1,110,Pasillo D-1
