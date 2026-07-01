@@ -1,3 +1,7 @@
+<img width="1408" height="768" alt="image_simulation_working" src="https://github.com/user-attachments/assets/9e0c7428-4c55-4981-b86f-4f94b063db70" />
+
+
+
 # 📚 Sistema Inteligente de Analitica de Biblioteca (Edades 3 a 110)
 
 Este proyecto cumple con las tres etapas requeridas para el manejo y procesamiento de datos mediante Inteligencia Artificial y Analitica Visual.
