@@ -62,3 +62,15 @@ You will see for example:
 |                                                                                                  |
 |  [ 📥 Descargar Reporte Completo en Excel ]                                                     |
 +--------------------------------------------------------------------------------------------------+
+
+
+---------------- Para generar el video he usado también IA, me quedo con el último:
+1. Prompt (instrucción técnica) en su barra de generación:"Create a futuristic, dark-themed dashboard for a Library Analytics System. It must include a live responsive layout showing reading age statistics from 3 to 110 years old using clean bar charts. In the sidebar or a main card, add an interactive AI Chat Assistant with typing animations that answers library inventory queries using LangChain style. Add a data table at the bottom representing rows from a library_inventory.csv file. Make layout look exactly like a production cloud app running on Oracle Cloud Infrastructure."
+2. Prompt: "Create a futuristic, dark-themed dashboard for a Library Analytics System. It must include a live responsive layout showing reading age statistics from 3 to 110 years old using clean bar charts. In the sidebar or a main card, add an interactive AI Chat Assistant with typing animations that answers library inventory queries using LangChain style. Add a data table at the bottom representing rows from a library_inventory.csv file. Make layout look exactly like a production cloud app running on Oracle Cloud
+Infrastructure."
+3. Promt: "Create in SPANISH a dashboard for a Library Analytics System. It must include a live responsive layout showing reading age statistics from 3 to 110 years old using clean bar charts. In the sidebar or a main card, add an interactive AI Chat Assistant with typing animations that answers library inventory queries using LangChain style. Add a data table at the bottom representing rows from a library_inventory.csv file. Make layout look exactly like a production cloud app running on Oracle Cloud Infrastructure. See the monitor with no deformation (All the data)
+
+
+
+https://github.com/user-attachments/assets/80efb0de-5f79-4291-891a-2bd77b7d6ab0
+
