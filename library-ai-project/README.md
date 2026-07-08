@@ -1,7 +1,15 @@
-<img width="1408" height="768" alt="image_simulation_working" src="https://github.com/user-attachments/assets/9e0c7428-4c55-4981-b86f-4f94b063db70" />
+IMAGE
+<img width="1173" height="763" alt="Captura del analisis" src="https://github.com/user-attachments/assets/d7c7a2ce-9ba1-4d38-8eef-da0a2710fec3" />
 
 
+ANIMATIONS
+https://github.com/user-attachments/assets/34f95caf-fad6-4d09-8c0a-081841ae5b57
 
+https://github.com/user-attachments/assets/9822021c-81c7-4b31-9bd2-32bac93121b0
+
+https://github.com/user-attachments/assets/082be3f8-dfbc-4aeb-8952-158c0297adc2
+
+--------------
 # 📚 Sistema Inteligente de Analitica de Biblioteca (Edades 3 a 110)
 
 Este proyecto cumple con las tres etapas requeridas para el manejo y procesamiento de datos mediante Inteligencia Artificial y Analitica Visual.
@@ -65,12 +73,12 @@ You will see for example:
 
 
 ---------------- Para generar el video he usado también IA, me quedo con el último:
-1. Prompt (instrucción técnica) en su barra de generación:"Create a futuristic, dark-themed dashboard for a Library Analytics System. It must include a live responsive layout showing reading age statistics from 3 to 110 years old using clean bar charts. In the sidebar or a main card, add an interactive AI Chat Assistant with typing animations that answers library inventory queries using LangChain style. Add a data table at the bottom representing rows from a library_inventory.csv file. Make layout look exactly like a production cloud app running on Oracle Cloud Infrastructure."
+1. Prompt: (instrucción técnica) en su barra de generación:"Create a futuristic, dark-themed dashboard for a Library Analytics System. It must include a live responsive layout showing reading age statistics from 3 to 110 years old using clean bar charts. In the sidebar or a main card, add an interactive AI Chat Assistant with typing animations that answers library inventory queries using LangChain style. Add a data table at the bottom representing rows from a library_inventory.csv file. Make layout look exactly like a production cloud app running on Oracle Cloud Infrastructure."
 2. Prompt: "Create a futuristic, dark-themed dashboard for a Library Analytics System. It must include a live responsive layout showing reading age statistics from 3 to 110 years old using clean bar charts. In the sidebar or a main card, add an interactive AI Chat Assistant with typing animations that answers library inventory queries using LangChain style. Add a data table at the bottom representing rows from a library_inventory.csv file. Make layout look exactly like a production cloud app running on Oracle Cloud
 Infrastructure."
-3. Promt: "Create in SPANISH a dashboard for a Library Analytics System. It must include a live responsive layout showing reading age statistics from 3 to 110 years old using clean bar charts. In the sidebar or a main card, add an interactive AI Chat Assistant with typing animations that answers library inventory queries using LangChain style. Add a data table at the bottom representing rows from a library_inventory.csv file. Make layout look exactly like a production cloud app running on Oracle Cloud Infrastructure. See the monitor with no deformation (All the data)
+3. Prompt: "Create in SPANISH a dashboard for a Library Analytics System. It must include a live responsive layout showing reading age statistics from 3 to 110 years old using clean bar charts. In the sidebar or a main card, add an interactive AI Chat Assistant with typing animations that answers library inventory queries using LangChain style. Add a data table at the bottom representing rows from a library_inventory.csv file. Make layout look exactly like a production cloud app running on Oracle Cloud Infrastructure. See the monitor with no deformation (All the data)
+4. Promt: "Create ALL IN SPANISH INCLUDE las tapas de libros en español a dashboard for a Library Analytics System. It must include a live responsive layout showing reading age statistics from 3 to 110 years old using clean bar charts. In the sidebar or a main card, add an interactive AI Chat Assistant with typing animations that answers library inventory queries using LangChain style. Add a data table at the bottom representing rows from a library_inventory.csv file. Make layout look exactly like a production cloud app running on Oracle Cloud Infrastructure. See the monitor with no deformation: 
 
 
 
-https://github.com/user-attachments/assets/80efb0de-5f79-4291-891a-2bd77b7d6ab0
 
