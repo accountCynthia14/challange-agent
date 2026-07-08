@@ -3,11 +3,12 @@ IMAGE
 
 
 ANIMATIONS
-https://github.com/user-attachments/assets/34f95caf-fad6-4d09-8c0a-081841ae5b57
 
 https://github.com/user-attachments/assets/9822021c-81c7-4b31-9bd2-32bac93121b0
 
 https://github.com/user-attachments/assets/082be3f8-dfbc-4aeb-8952-158c0297adc2
+
+https://github.com/user-attachments/assets/34f95caf-fad6-4d09-8c0a-081841ae5b57
 
 --------------
 # 📚 Sistema Inteligente de Analitica de Biblioteca (Edades 3 a 110)
